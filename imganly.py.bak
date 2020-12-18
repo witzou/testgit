@@ -4,7 +4,6 @@
 在无参考图下，检测图片质量的方法
 """
 
-
 import os
 import cv2
 import numpy as np
